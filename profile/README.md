@@ -2,7 +2,7 @@
 
 _This neighborhood is the demoscene of **AlGothAmaIgaNotions** community._
 
-![](./AlGothAmaIgaNotions.png =80x80)
+![](AlGothAmaIgaNotions.png)
 
 ## What our members are up to:
 
