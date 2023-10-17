@@ -2,7 +2,7 @@
 
 _This neighborhood is the demoscene of **AlGothAmaIgaNotions** community._
 
-![](AlGothAmaIgaNotions.png)
+![](https://github.com/Gotham-Village/.github/blob/main/profile/AlGothAmaIgaNotions.png =80x80)
 
 ## What our members are up to:
 
