@@ -23,12 +23,12 @@ We turn this:
 
 into this:
 
-![hackerdome](https://github.com/Gotham-Village/.github/blob/main/profile/img/dall-e-coggerdom.png)
+![hackerdome](https://github.com/Gotham-Village/.github/blob/main/profile/img/dall-e-craft.png)
 
 ## What tools do we use to design software together?
 
 ![ddd](https://github.com/Gotham-Village/.github/blob/main/profile/img/Event-Storming.png)
 
-## How do we do the whole day?
+## What do we do the whole day?
 
 _We help each-other to secure personal freedom._
