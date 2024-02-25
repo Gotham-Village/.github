@@ -31,4 +31,10 @@ into this:
 
 ## What do we do the whole day?
 
-_We help each-other to secure personal freedom._
+_We help each-other secure our personal freedom so that we can help others better._
+
+Our secret layer where we work together 
+to help kindness and compassion that only 
+comes from true meritocracy take over the world.
+
+![our-lab](https://github.com/Gotham-Village/.github/blob/main/profile/img/our-layer.png)
