@@ -1,3 +1,3 @@
 # Gotham Village Public Space
 
-<img src="https://github.com/Gotham-Village/.github/blob/main/profile/AlGothAmaIgaNotions.png" width="120" height="120" alt="AGAIN community logo">
+<img src="https://avatars.githubusercontent.com/u/147659869" width="360" height="360" alt="AGAIN community logo">
